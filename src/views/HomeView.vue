@@ -5,6 +5,9 @@ import TheWelcome from '../components/TheWelcome.vue'
 
 <template>
   <main>
-    
+    <NavBar />
+    <div>
+      <TheWelcome />
+    </div>
   </main>
 </template>
